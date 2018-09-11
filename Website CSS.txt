@@ -1,0 +1,15 @@
+#Geisha {
+  color: red;
+  background-color: lightpink;
+  width: 450px;
+}
+
+#Ashigaru {
+  color: blue;
+  background-color: lightblue;
+  width: 450px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}

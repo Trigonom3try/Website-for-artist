@@ -1,0 +1,40 @@
+#Geisha {
+  color: red;
+  background-color: lightpink;
+  width: 450px;
+}
+
+#Ashigaru {
+  color: blue;
+  background-color: lightblue;
+  width: 450px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+span {
+	color: red;
+}
+span1 {
+	color: orange;
+}
+span2 {
+	color: yellow;
+}
+span3 {
+	color: green;
+}
+span4 {
+	color: lightblue;
+}
+span5 {
+	color: blue;
+}
+span6 {
+	color: purple;
+}
+span7 {
+	color: pink;
+}
